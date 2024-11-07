@@ -15,10 +15,11 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 5.Iterate Until Convergence: Repeat the gradient descent steps for a predefined number of iterations or until convergence criteria are met. Convergence can be determined when the change in the loss function between iterations becomes very small or when the parameters (theta) stop changing significantly.
 
 ## Program:
-
+```
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: V RAKSHA DHARANIKA
 RegisterNumber: 212223230167
+```
 ```PY
 
 import pandas as pd
